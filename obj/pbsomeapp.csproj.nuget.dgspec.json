@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\paulbradford\\workspace\\dotnet\\pbsomeapp\\pbsomeapp.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\paulbradford\\workspace\\dotnet\\pbsomeapp\\pbsomeapp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\paulbradford\\workspace\\dotnet\\pbsomeapp\\pbsomeapp.csproj",
+        "projectName": "pbsomeapp",
+        "projectPath": "C:\\Users\\paulbradford\\workspace\\dotnet\\pbsomeapp\\pbsomeapp.csproj",
+        "packagesPath": "C:\\Users\\paulbradford\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\paulbradford\\workspace\\dotnet\\pbsomeapp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\paulbradford\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
